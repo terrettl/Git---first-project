@@ -6,3 +6,6 @@ yowwzers
 ok this is getting hardcore
 
 hopefully I am able to do this
+
+now will use more variables and more features
+will try harder
